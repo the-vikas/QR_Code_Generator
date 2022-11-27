@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# [QR Code Generator](https://github.com/the-vikas/QR_Code_Generator)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
